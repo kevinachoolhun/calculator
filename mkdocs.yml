@@ -1,0 +1,6 @@
+site_name: Calculator
+nav:
+  - Home: index.md
+  - Knowledge:
+      - explanation.md
+theme: readthedocs

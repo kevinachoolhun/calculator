@@ -1,0 +1,26 @@
+create folder on local 
+create repo og Github
+
+on terminal: 
+git init
+git remote add origin giturl
+git branch -M main
+
+can check user here
+git config user.name
+
+create readme.md
+
+git add .
+git commit -m "message"
+git push -u origin main
+
+check if file has been sent to github
+
+Mkdocs
+
+pip install mkdocs
+Create files under docs
+Create mkdocs.yml file
+
+run mkdocs serve to launch the website on localhost
